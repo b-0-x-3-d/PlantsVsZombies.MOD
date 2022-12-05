@@ -1,0 +1,5 @@
+ZombieType.Normal
+ZombieType.TrafficCone
+ZombieType.Pail
+ZombieType.DoorCone
+ZombieType.DoorPail

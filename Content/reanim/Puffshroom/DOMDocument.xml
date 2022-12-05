@@ -1,0 +1,2703 @@
+<DOMDocument frameRate="12" width="80" height="80" xflVersion="2.97" xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <timelines>
+        <DOMTimeline name="Scene 1">
+            <layers>
+                <DOMLayer name="anim_blink">
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink1">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="23.42943000793457" ty="26.258039474487305" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="3">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink1">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="23.42943000793457" ty="26.258039474487305" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="5">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="6">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="7">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="8">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="9">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="10">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="11">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="12">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="13">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="14">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="15">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="17">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="18">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="19">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="20">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="21">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="22">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="23">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="25">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="26">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="27">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="28">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="30">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="31">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="32">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="33">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="34">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="35">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="36">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="37">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="38">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="39">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="40">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="42">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="43">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="44">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="45">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="46">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="47">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="49">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="50">
+                            <elements />
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="puffshroom_eyes">
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="2">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="3">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="4">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="5">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="6">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="7">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="8">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="9">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="10">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="11">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="12">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="13">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="14">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="15">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="17">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="18">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="19">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="20">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="21">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="22">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="23">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="25">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="26">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="27">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="28">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink1">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4009999930858612" tx="23.803020477294922" ty="26.57826042175293" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4169999957084656" tx="23.963130950927734" ty="26.631629943847656" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink1">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4169999957084656" tx="23.963130950927734" ty="26.57826042175293" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="33">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="34">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.45500001311302185" tx="23.42943000793457" ty="26.311410903930664" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.45899999141693115" tx="23.42943000793457" ty="26.418149948120117" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.46299999952316284" tx="23.42943000793457" ty="26.471519470214844" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.46700000762939453" tx="23.42943000793457" ty="26.631629943847656" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.47099998593330383" tx="23.42943000793457" ty="26.684999465942383" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="23.42943000793457" ty="26.684999465942383" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4449999928474426" tx="23.42943000793457" ty="26.57826042175293" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.44999998807907104" tx="23.42943000793457" ty="26.418149948120117" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.45500001311302185" tx="23.42943000793457" ty="26.311410903930664" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="43">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.45899999141693115" tx="23.42943000793457" ty="26.15130043029785" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="44">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.46299999952316284" tx="23.42943000793457" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="45">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.46700000762939453" tx="23.42943000793457" ty="25.937820434570312" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="46">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.47099998593330383" tx="23.42943000793457" ty="25.831079483032227" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="47">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.47099998593330383" tx="23.42943000793457" ty="25.884450912475586" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4659999907016754" tx="23.42943000793457" ty="26.097930908203125" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="49">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.460999995470047" tx="23.42943000793457" ty="26.15130043029785" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="50">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_blink2">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.45500001311302185" tx="23.42943000793457" ty="26.311410903930664" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="puffshroom_head">
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="2">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="3">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="11.954879760742188" ty="15.157079696655273" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4440000057220459" b="0" c="-0" d="0.4309999942779541" tx="11.848139762878418" ty="15.477299690246582" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4480000138282776" b="0" c="-0" d="0.421999990940094" tx="11.794770240783691" ty="15.79751968383789" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.45100000500679016" b="0" c="-0" d="0.4129999876022339" tx="11.688030242919922" ty="16.171110153198242" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.45500001311302185" b="0" c="-0" d="0.4050000011920929" tx="11.634659767150879" ty="16.491329193115234" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.45500001311302185" b="0" c="-0" d="0.39399999380111694" tx="11.634659767150879" ty="16.704809188842773" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.4090000092983246" tx="11.741399765014648" ty="16.171110153198242" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4449999928474426" b="0" c="-0" d="0.42500001192092896" tx="11.848139762878418" ty="15.637410163879395" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="11.954879760742188" ty="15.157079696655273" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.43700000643730164" b="0" c="-0" d="0.4490000009536743" tx="12.00825023651123" ty="14.836859703063965" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4339999854564667" b="0" c="-0" d="0.4580000042915344" tx="12.061619758605957" ty="14.516639709472656" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4300000071525574" b="0" c="-0" d="0.46700000762939453" tx="12.114990234375" ty="14.196419715881348" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4269999861717224" b="0" c="-0" d="0.4749999940395355" tx="12.22173023223877" ty="13.876199722290039" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4269999861717224" b="0" c="-0" d="0.4749999940395355" tx="12.22173023223877" ty="13.876199722290039" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4320000112056732" b="0" c="-0" d="0.46399998664855957" tx="12.114990234375" ty="14.303159713745117" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4359999895095825" b="0" c="-0" d="0.4519999921321869" tx="12.00825023651123" ty="14.730119705200195" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="11.954879760742188" ty="15.157079696655273" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="11.954879760742188" ty="15.157079696655273" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4359999895095825" b="0" c="0.009424089072282415" d="0.4499012956375229" tx="11.634659767150879" ty="14.890230178833008" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4320000112056732" b="0" c="0.019262801829856728" d="0.459596510150743" tx="11.367810249328613" ty="14.623379707336426" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.42800000309944153" b="0" c="0.030330185192298215" d="0.4690203393730741" tx="11.100959777832031" ty="14.409899711608887" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.42399999499320984" b="0" c="0.041085541356250074" d="0.47924209357566805" tx="10.780739784240723" ty="14.143050193786621" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.41999998688697815" b="0" c="0.05387954800406965" d="0.4880348256314282" tx="10.460519790649414" ty="13.929570198059082" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.419533734369097" b="-0.019784709029493846" c="0.07765561372192749" d="0.48482017530182486" tx="10.140299797058105" ty="14.623379707336426" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.43180987076164923" b="-0.012815818136566598" c="0.046873397554472535" d="0.4535844847645674" tx="10.940850257873535" ty="15.317190170288086" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4449667823480087" b="-0.005436565191722642" c="0.021299628665139923" d="0.4204608531489017" tx="11.741399765014648" ty="16.01099967956543" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4580000042915344" b="0" c="-0" d="0.3869999945163727" tx="12.488579750061035" ty="16.758180618286133" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.44200000166893005" b="0" c="-0" d="0.3970000147819519" tx="13.022279739379883" ty="16.59807014465332" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4410000145435333" b="0" c="-0" d="0.4180000126361847" tx="12.488579750061035" ty="15.90425968170166" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="11.954879760742188" ty="15.157079696655273" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="11.954879760742188" ty="15.157079696655273" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4440000057220459" b="0" c="-0" d="0.4309999942779541" tx="11.848139762878418" ty="15.477299690246582" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4480000138282776" b="0" c="-0" d="0.421999990940094" tx="11.794770240783691" ty="15.79751968383789" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.45100000500679016" b="0" c="-0" d="0.4129999876022339" tx="11.688030242919922" ty="16.171110153198242" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.45500001311302185" b="0" c="-0" d="0.4050000011920929" tx="11.634659767150879" ty="16.491329193115234" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.45500001311302185" b="0" c="-0" d="0.39399999380111694" tx="11.634659767150879" ty="16.704809188842773" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.4090000092983246" tx="11.741399765014648" ty="16.171110153198242" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4449999928474426" b="0" c="-0" d="0.42500001192092896" tx="11.848139762878418" ty="15.637410163879395" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="11.954879760742188" ty="15.157079696655273" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="43">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.43700000643730164" b="0" c="-0" d="0.4490000009536743" tx="12.00825023651123" ty="14.836859703063965" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="44">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4339999854564667" b="0" c="-0" d="0.4580000042915344" tx="12.061619758605957" ty="14.516639709472656" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="45">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4300000071525574" b="0" c="-0" d="0.46700000762939453" tx="12.114990234375" ty="14.196419715881348" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="46">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4269999861717224" b="0" c="-0" d="0.4749999940395355" tx="12.22173023223877" ty="13.876199722290039" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="47">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4269999861717224" b="0" c="-0" d="0.4749999940395355" tx="12.22173023223877" ty="13.876199722290039" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4320000112056732" b="0" c="-0" d="0.46399998664855957" tx="12.114990234375" ty="14.303159713745117" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="49">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4359999895095825" b="0" c="-0" d="0.4519999921321869" tx="12.00825023651123" ty="14.730119705200195" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="50">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_head">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="11.954879760742188" ty="15.157079696655273" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="puffshroom_tip">
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="2">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="3">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.15130043029785" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.204669952392578" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.36478042602539" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.418149948120117" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.631629943847656" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.418149948120117" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.258039474487305" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.937820434570312" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.884450912475586" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.7777099609375" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.670970916748047" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.56422996520996" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.724340438842773" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.884450912475586" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.4320000112056732" b="0" c="-0" d="0.44999998807907104" tx="26.044559478759766" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.4129999876022339" b="0" c="-0" d="0.44999998807907104" tx="25.670970916748047" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.39499760425352615" b="-0.0013788073670097482" c="-0" d="0.44999998807907104" tx="25.350749969482422" ty="26.097930908203125" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.37699770724000964" b="-0.0013159756172968465" c="-0" d="0.44999998807907104" tx="25.03053092956543" ty="26.097930908203125" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.3579912860440204" b="-0.0024992912954838456" c="-0" d="0.44999998807907104" tx="24.656940460205078" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.3989975581881981" b="-0.0013927698971452104" c="-0" d="0.4699999988079071" tx="25.350749969482422" ty="25.937820434570312" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.4399973169851766" b="-0.001535886637262482" c="-0" d="0.4909999966621399" tx="26.097930908203125" ty="25.831079483032227" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.48100000619888306" b="0" c="-0" d="0.5109999775886536" tx="26.79174041748047" ty="25.724340438842773" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.5220000147819519" b="0" c="-0" d="0.5320000052452087" tx="27.485549926757812" ty="25.670970916748047" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.49799999594688416" b="0" c="-0" d="0.5049999952316284" tx="27.11195945739746" ty="25.831079483032227" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.4740000069141388" b="0" c="-0" d="0.47699999809265137" tx="26.738370895385742" ty="25.884450912475586" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.15130043029785" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.204669952392578" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.36478042602539" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.418149948120117" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.631629943847656" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.418149948120117" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.258039474487305" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="43">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.937820434570312" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="44">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.884450912475586" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="45">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.7777099609375" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="46">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.670970916748047" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="47">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.56422996520996" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.724340438842773" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="49">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="25.884450912475586" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="50">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_tip">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="26.36478042602539" ty="26.044559478759766" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="puffshroom_stem">
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="2">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="3">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.4399999976158142" tx="25.40411949157715" ty="27.37881088256836" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.4309999942779541" tx="25.40411949157715" ty="27.485549926757812" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.42100000381469727" tx="25.40411949157715" ty="27.645660400390625" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.41100001335144043" tx="25.40411949157715" ty="27.752399444580078" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.4496562199664129" b="0.1435036116142117" c="-0" d="0.4189999997615814" tx="25.40411949157715" ty="27.485549926757812" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.45517333895833395" b="0.09509066635301727" c="-0" d="0.42899999022483826" tx="25.350749969482422" ty="27.37881088256836" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.45466047120951975" b="0.04618272804918304" c="-0" d="0.4399999976158142" tx="25.40411949157715" ty="27.272069931030273" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.45899999141693115" tx="25.40411949157715" ty="27.11195945739746" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.46799999475479126" tx="25.40411949157715" ty="27.005220413208008" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.47600001096725464" tx="25.40411949157715" ty="26.898479461669922" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.48500001430511475" tx="25.40411949157715" ty="26.738370895385742" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.45015898201079085" b="-0.10392738989575617" c="-0" d="0.4779999852180481" tx="25.40411949157715" ty="27.058589935302734" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.4529692696641535" b="-0.06769671093169083" c="-0" d="0.4690000116825104" tx="25.40411949157715" ty="27.11195945739746" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.4527807689661393" b="-0.03325013970927808" c="-0" d="0.45899999141693115" tx="25.40411949157715" ty="27.16533088684082" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.4020000100135803" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.3540000021457672" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.3070000112056732" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.2590000033378601" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.210999995470047" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.5180000066757202" b="0" c="-0" d="0.4359999895095825" tx="24.870420455932617" ty="27.37881088256836" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.824999988079071" b="0" c="-0" d="0.42100000381469727" tx="24.336719512939453" ty="27.485549926757812" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="1.1319999694824219" b="0" c="-0" d="0.40700000524520874" tx="23.803020477294922" ty="27.5922908782959" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="1.4390000104904175" b="0" c="-0" d="0.3930000066757202" tx="23.482799530029297" ty="27.69902992248535" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="1.1089999675750732" b="0" c="-0" d="0.41200000047683716" tx="24.123239517211914" ty="27.53891944885254" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.7799999713897705" b="0" c="-0" d="0.4309999942779541" tx="24.81705093383789" ty="27.37881088256836" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.4399999976158142" tx="25.40411949157715" ty="27.37881088256836" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.4309999942779541" tx="25.40411949157715" ty="27.485549926757812" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.42100000381469727" tx="25.40411949157715" ty="27.645660400390625" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.41100001335144043" tx="25.40411949157715" ty="27.752399444580078" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.4496562199664129" b="0.1435036116142117" c="-0" d="0.4189999997615814" tx="25.40411949157715" ty="27.485549926757812" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.45517333895833395" b="0.09509066635301727" c="-0" d="0.42899999022483826" tx="25.350749969482422" ty="27.37881088256836" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.45466047120951975" b="0.04618272804918304" c="-0" d="0.4399999976158142" tx="25.40411949157715" ty="27.272069931030273" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="43">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.45899999141693115" tx="25.40411949157715" ty="27.11195945739746" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="44">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.46799999475479126" tx="25.40411949157715" ty="27.005220413208008" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="45">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.47600001096725464" tx="25.40411949157715" ty="26.898479461669922" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="46">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.48500001430511475" tx="25.40411949157715" ty="26.738370895385742" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="47">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.45015898201079085" b="-0.10392738989575617" c="-0" d="0.4779999852180481" tx="25.40411949157715" ty="27.058589935302734" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.4529692696641535" b="-0.06769671093169083" c="-0" d="0.4690000116825104" tx="25.40411949157715" ty="27.11195945739746" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="49">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.4527807689661393" b="-0.03325013970927808" c="-0" d="0.45899999141693115" tx="25.40411949157715" ty="27.16533088684082" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="50">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_stem">
+                                    <matrix>
+                                        <Matrix a="0.44999998807907104" b="0" c="-0" d="0.44999998807907104" tx="25.40411949157715" ty="27.218700408935547" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="anim_face">
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="2">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="3">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="4">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="15.637410163879395" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4300000071525574" tx="15.637410163879395" ty="25.03053092956543" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.42100000381469727" tx="15.637410163879395" ty="25.24401092529297" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.41100001335144043" tx="15.637410163879395" ty="25.40411949157715" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4020000100135803" tx="15.637410163879395" ty="25.617599487304688" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.41100001335144043" tx="15.637410163879395" ty="25.457490921020508" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.42100000381469727" tx="15.637410163879395" ty="25.297380447387695" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4300000071525574" tx="15.637410163879395" ty="25.083900451660156" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="15.637410163879395" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4490000009536743" tx="15.637410163879395" ty="24.710309982299805" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4569999873638153" tx="15.637410163879395" ty="24.550199508666992" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4659999907016754" tx="15.637410163879395" ty="24.390090942382812" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4740000069141388" tx="15.637410163879395" ty="24.22998046875" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4659999907016754" tx="15.637410163879395" ty="24.44346046447754" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4569999873638153" tx="15.637410163879395" ty="24.550199508666992" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4490000009536743" tx="15.637410163879395" ty="24.76367950439453" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="15.637410163879395" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="15.637410163879395" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4359999895095825" b="0" c="0.006911219396682199" d="0.43994571591091486" tx="15.530670166015625" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4309999942779541" b="0" c="0.01462143396812597" d="0.44075755977193665" tx="15.477299690246582" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4269999861717224" b="0" c="0.022311488042724446" d="0.44043525100599745" tx="15.317190170288086" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4230000078678131" b="0" c="0.029994744904891065" d="0.439978781426431" tx="15.210450172424316" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4189999997615814" b="0" c="0.03929127863053984" d="0.4402501526392824" tx="15.103710174560547" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4339999854564667" b="0" c="0.018006532118170597" d="0.429622824058821" tx="15.263819694519043" ty="25.03053092956543" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4490000009536743" b="0" c="-0" d="0.4189999997615814" tx="15.370559692382812" ty="25.137269973754883" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.46399998664855957" b="0" c="-0.01633363943280351" d="0.40667212406615616" tx="15.423930168151855" ty="25.350749969482422" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.47999998927116394" b="0" c="-0.0345136739410567" d="0.3944930983067293" tx="15.477299690246582" ty="25.510860443115234" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="31">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4659999907016754" b="0" c="-0.023601250506905872" d="0.40932014126104493" tx="15.584039688110352" ty="25.297380447387695" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="32">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.453000009059906" b="0" c="-0.011125203342899629" d="0.4248543750314558" tx="15.637410163879395" ty="25.083900451660156" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="15.637410163879395" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="34">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="15.637410163879395" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="35">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4300000071525574" tx="15.637410163879395" ty="25.03053092956543" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="36">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.42100000381469727" tx="15.637410163879395" ty="25.24401092529297" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.41100001335144043" tx="15.637410163879395" ty="25.40411949157715" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="38">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4020000100135803" tx="15.637410163879395" ty="25.617599487304688" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="39">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.41100001335144043" tx="15.637410163879395" ty="25.457490921020508" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="40">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.42100000381469727" tx="15.637410163879395" ty="25.297380447387695" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4300000071525574" tx="15.637410163879395" ty="25.083900451660156" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="42">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="15.637410163879395" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="43">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4490000009536743" tx="15.637410163879395" ty="24.710309982299805" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="44">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4569999873638153" tx="15.637410163879395" ty="24.550199508666992" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="45">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4659999907016754" tx="15.637410163879395" ty="24.390090942382812" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="46">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4740000069141388" tx="15.637410163879395" ty="24.22998046875" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="47">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4659999907016754" tx="15.637410163879395" ty="24.44346046447754" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4569999873638153" tx="15.637410163879395" ty="24.550199508666992" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="49">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4490000009536743" tx="15.637410163879395" ty="24.76367950439453" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="50">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="puffshroom_body">
+                                    <matrix>
+                                        <Matrix a="0.4399999976158142" b="0" c="-0" d="0.4399999976158142" tx="15.637410163879395" ty="24.870420455932617" />
+                                    </matrix>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="anim_idle">
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="2">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="3">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="4">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="5">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="6">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="7">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="8">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="9">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="10">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="11">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="12">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="13">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="14">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="15">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="17">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="18">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="19">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="20">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="21">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="22">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="23">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="25">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="26">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="27">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="28">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="30">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="31">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="32">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="33">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="34">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="35">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="36">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="37">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="38">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="39">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="40">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="42">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="43">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="44">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="45">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="46">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="47">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="49">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="50">
+                            <elements />
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="anim_shooting">
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="2">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="3">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="4">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="5">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="6">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="7">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="8">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="9">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="10">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="11">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="12">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="13">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="14">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="15">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="17">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="18">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="19">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="20">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="21">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="22">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="23">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="25">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="26">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="27">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="28">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="30">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="31">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="32">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="33">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="34">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="35">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="36">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="37">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="38">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="39">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="40">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="42">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="43">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="44">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="45">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="46">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="47">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="49">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="50">
+                            <elements />
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="anim_sleep">
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="1">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="2">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="3">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="4">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="5">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="6">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="7">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="8">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="9">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="10">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="11">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="12">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="13">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="14">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="15">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="17">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="18">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="19">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="20">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="21">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="22">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="23">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="25">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="26">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="27">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="28">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="30">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="31">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="32">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="33">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="34">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="35">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="36">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="37">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="38">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="39">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="40">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="41">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="42">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="43">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="44">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="45">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="46">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="47">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="49">
+                            <elements />
+                        </DOMFrame>
+                        <DOMFrame index="50">
+                            <elements />
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+    <media>
+        <DOMBitmapItem name="puffshroom_blink1.png" href="puffshroom_blink1.png" />
+        <DOMBitmapItem name="puffshroom_blink1.png" href="puffshroom_blink1.png" />
+        <DOMBitmapItem name="puffshroom_blink2.png" href="puffshroom_blink2.png" />
+        <DOMBitmapItem name="puffshroom_blink1.png" href="puffshroom_blink1.png" />
+        <DOMBitmapItem name="puffshroom_blink2.png" href="puffshroom_blink2.png" />
+        <DOMBitmapItem name="puffshroom_head.png" href="puffshroom_head.png" />
+        <DOMBitmapItem name="puffshroom_tip.png" href="puffshroom_tip.png" />
+        <DOMBitmapItem name="puffshroom_stem.png" href="puffshroom_stem.png" />
+        <DOMBitmapItem name="puffshroom_body.png" href="puffshroom_body.png" />
+    </media>
+    <symbols>
+        <Include href="puffshroom_blink1.xml" />
+        <Include href="puffshroom_blink1.xml" />
+        <Include href="puffshroom_blink2.xml" />
+        <Include href="puffshroom_blink1.xml" />
+        <Include href="puffshroom_blink2.xml" />
+        <Include href="puffshroom_head.xml" />
+        <Include href="puffshroom_tip.xml" />
+        <Include href="puffshroom_stem.xml" />
+        <Include href="puffshroom_body.xml" />
+    </symbols>
+</DOMDocument>
