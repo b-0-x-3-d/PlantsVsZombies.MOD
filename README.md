@@ -1,9 +1,9 @@
 https://github.com/Mewnojs/PlantsVsZombies.NET
 
-# PlantsVsZombies.net
+# PlantsVsZombies.net Mod
 
 #### Description
-An opensource cross-platform Plants Vs Zombies remake, written in C#, originated from codes in an olde-mobile version.
+A mod of the opensource cross-platform C# Plants Vs Zombies remake (originated from codes in an olde-mobile version) PlantsVsZombies.NET, it is not a website, but rather a .NET application.
 
 #### Software Architecture
 The whole project comprises of three parts, which are *Lawn*, *Sexy*, and *Sexy.TodLib*.
@@ -30,6 +30,8 @@ The whole project comprises of three parts, which are *Lawn*, *Sexy*, and *Sexy.
 
 
 #### About Project
+
+Modder: __Boxed
 
 Porting Author: MnJS(2508)
 (OICQ)GroupID: 884792079
