@@ -26,7 +26,7 @@ The whole project comprises of three parts, which are *Lawn*, *Sexy*, and *Sexy.
 
 #### Suggestions
 
-1.  Open a new issue with the title beginning with "[[SUGGESTION]]"
+1.  Open a new issue with the Suggestion template, follow the instructions inside of the template!!
 
 
 #### About Project
