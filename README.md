@@ -14,21 +14,19 @@ The whole project comprises of three parts, which are *Lawn*, *Sexy*, and *Sexy.
 #### Installation
 
 1.  Clone into local;
-2.	Open and compile/publish with VS2019;
-3.	Extract game contents (not included in this repo) into the path of the compiled executable;
-4.	Enjoy!
+2.	~~Open and compile/publish with VS2019;~~ already compiled for ya :) (Lawn_PCDX/bin/)
+3.	~~Extract game contents (not included in this repo) into the path of the compiled executable;~~ already done for ya :)
+4.  Install .NET core framework 3.1
+5.	Enjoy!
 
 #### Instructions
 
 1.  This is an early yet unstable version of the project, things may have broken. If so, please report them as issues, which is very important for me. Thanks to all guys who contribute to this project!
 2.	Save files are storaged in %USERPROFILE%\AppData\Local\IsolatedStorage\RANDOM_STRING\RANDOM_CHARACTERS\YET_ANOTHER_RANDOM_STRING\AppFiles\docs\userdata
 
-#### Contribution
+#### Suggestions
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1.  Open a new issue with the title beginning with "[[SUGGESTION]]"
 
 
 #### About Project
