@@ -17,8 +17,8 @@ The whole project comprises of three parts, which are *Lawn*, *Sexy*, and *Sexy.
 2.	~~Open and compile/publish with VS2019;~~ already compiled for ya :) (Lawn_PCDX/bin/)
 3.	~~Extract game contents (not included in this repo) into the path of the compiled executable;~~ already done for ya :)
 4.  Install .NET core framework 3.1
->https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-3.1.31-windows-x64-installer x64
->https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-3.1.31-windows-x86-installer x86
+>https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.425-windows-x64-installer x64
+>https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.425-windows-x86-installer x64
 5.	Enjoy!
 
 #### Instructions
